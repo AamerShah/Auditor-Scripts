@@ -52,7 +52,7 @@ pip install meraki colorama
 
 Each auditor requires platform-specific credentials:
 
-- **Meraki**: Dashboard API Key (add to line 40 of `meraki_conf.py`)
+- **Meraki**: Dashboard API Key (add to line 42 of `meraki_conf.py`)
 
 ---
 
