@@ -1,5 +1,5 @@
 # Auditor-Scripts
-#![Audit Logo](https://cdn-icons-png.flaticon.com/512/159/159469.png) Network & Security Auditor Suite
+# ![Audit Logo](https://cdn-icons-png.flaticon.com/512/159/159469.png) Network & Security Auditor Suite
 
 [![Python](https://img.shields.io/badge/python-3.13-blue.svg)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
